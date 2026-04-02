@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /cdn-cgi/
+Disallow: /api/
+Allow: /
+
+Sitemap: https://agronorte-h9h5h2wb.manus.space/sitemap.xml
